@@ -42,4 +42,4 @@ To use this library do the following:
 	```
 
 If you are using Symfony: use 
-[lamoda/tacticial-rate-limiter-bundle](https://github.com/lamoda/rate-limiter-bundle)
+[lamoda/tactician-rate-limit-bundle](https://github.com/lamoda/tactician-rate-limit-bundle)
