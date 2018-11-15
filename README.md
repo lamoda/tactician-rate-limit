@@ -1,4 +1,8 @@
 # Lamoda Tactician Rate Limit Middleware
+[![Build Status](https://travis-ci.org/lamoda/tactician-rate-limit.svg?branch=master)](https://travis-ci.org/lamoda/tactician-rate-limit)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/lamoda/tactician-rate-limit/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/lamoda/tactician-rate-limit/?branch=master)
+[![Code Coverage](https://scrutinizer-ci.com/g/lamoda/tactician-rate-limit/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/lamoda/tactician-rate-limit/?branch=master)
+[![Build Status](https://scrutinizer-ci.com/g/lamoda/tactician-rate-limit/badges/build.png?b=master)](https://scrutinizer-ci.com/g/lamoda/tactician-rate-limit/build-status/master)
 
 ## Installation
 
