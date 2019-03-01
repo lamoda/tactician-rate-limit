@@ -18,7 +18,7 @@ For now there out of the box support for the following libraries:
 
 To use this library do the following:
 
-1. Require it via composer:
+1. Require `stiphle` via composer:
 	```bash
 	composer require davedevelopment/stiphle
 	```
